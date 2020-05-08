@@ -16950,6 +16950,8 @@
     <state id="msp_bed_ncc_gbbed_front.swf" name="front" enable="Y" default="Y"/>
     <state id="msp_bed_ncc_gbbed_side.swf" name="side" enable="Y"/>
   </prop>
+  <prop id="msp_test" name="Testing" holdable="0" placeable="1" wearable="0" facing="left" thumb="ess_happy.swf" enable="Y" is_premium="N" aid="11728" money="0" sharing="0">
+  </prop>
   <prop id="msp_gbblanket01" name="Blanket" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_gbblanket01_ncc_gbblanket01empty_front.swf" enable="Y" is_premium="Y" aid="11731" money="0" sharing="0">
     <state id="msp_gbblanket01_ncc_gbblanket01empty_front.swf" name="front - empty" enable="Y" default="Y"/>
     <state id="msp_gbblanket01_ncc_gbblanket01empty_side.swf" name="side - empty" enable="Y"/>
