@@ -16411,6 +16411,8 @@
     <state id="Dunkindonutsgwlnewengland.swf" name="Dunkin Donuts" enable="Y"/>
     <state id="Dinner_Great_Wolf_Lodge.swf" name="Restaurant" enable="Y"/>
   </prop>
+  <prop id="ess_happy" name="Sparkle" holdable="0" placeable="1" wearable="1" facing="left" thumb="ess_happy.swf" enable="Y" is_premium="N" aid="11272" money="0" sharing="0">
+  </prop>
   <prop id="msp_ncc_hpcover" name="Bed cover" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_ncc_hpcover_ncc_hprbedcover01_front.swf" enable="Y" is_premium="N" aid="11275" money="0" sharing="0">
     <state id="msp_ncc_hpcover_ncc_hprbedcover01_front.swf" name="front - blanket" enable="Y" default="Y"/>
     <state id="msp_ncc_hpcover_ncc_hprbedcover01_side.swf" name="side - blanket" enable="Y"/>
